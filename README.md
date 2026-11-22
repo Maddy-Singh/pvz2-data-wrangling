@@ -44,7 +44,7 @@ The project includes visualisations exploring plant characteristics, numerical a
 
 ### 1. Recharge Speed Outliers
 
-![Recharge Speed Outliers](Visualizations/Recharge%20Speed%20Outliers .png)
+![Recharge Speed Outliers](Visualizations/Recharge%20Speed%20Outliers%20.png)
 
 ### 2. Recharge Speed Outliers – Trimmed
 
